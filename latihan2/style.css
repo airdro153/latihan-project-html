@@ -1,0 +1,20 @@
+.container {
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    /* background-color: rgb(0, 0, 0); */
+}
+
+
+
+.warpper {
+    display: flex;
+    
+}
+
+
+.border {
+    height: 400px;
+    width: 400px;
+    border: 1px solid;
+} 
